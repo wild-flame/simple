@@ -1,10 +1,6 @@
 # simple
 
-`simple` is a theme designed for blogger using static site generator like jekyll, Hexo etc.
-
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
-
-Supposedly, this could work with Japanese as well but never had a chance to try.
+simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
 
 ## Story behind this theme
 
@@ -18,7 +14,7 @@ So mobile goes first, then the macOS.
 
 ### iPhone 6
 
-![](design/iPhone 6.png)
+![](designs/iPhone 6.png)
 
-### Computer
-![](design/Computer.png)
+### Computer 
+![](designs/computer.png)
