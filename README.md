@@ -21,4 +21,4 @@ So mobile goes first, then the macOS.
 ![](design/iPhone 6.png)
 
 ### Computer
-![](design/Computer.png)
+![](design/computer.png)
